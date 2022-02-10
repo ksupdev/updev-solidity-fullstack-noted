@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bn.js": "^5.2.0",
+    "ganache-cli": "^6.12.2",
     "web3": "^1.6.1"
   }
 }

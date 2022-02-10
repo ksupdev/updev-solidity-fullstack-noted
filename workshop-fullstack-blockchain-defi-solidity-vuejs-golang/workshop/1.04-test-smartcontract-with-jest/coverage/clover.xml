@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644417727188" clover="3.2.0">
+  <project timestamp="1644417727188" name="All files">
+    <metrics statements="39" coveredstatements="21" conditionals="5" coveredconditionals="0" methods="10" coveredmethods="2" elements="54" coveredelements="23" complexity="0" loc="39" ncloc="39" packages="1" files="2" classes="2"/>
+    <file name="test_util.ts" path="/Users/karoon/Documents/project/full-stack-blockchain-defi-solidity/updev-solidity-fullstack-noted/workshop-fullstack-blockchain-defi-solidity-vuejs-golang/workshop/1.04-test-smartcontract-with-jest/utils/test_util.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+    </file>
+    <file name="util.ts" path="/Users/karoon/Documents/project/full-stack-blockchain-defi-solidity/updev-solidity-fullstack-noted/workshop-fullstack-blockchain-defi-solidity-vuejs-golang/workshop/1.04-test-smartcontract-with-jest/utils/util.ts">
+      <metrics statements="35" coveredstatements="17" conditionals="5" coveredconditionals="0" methods="9" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="3"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
