@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644417727188" clover="3.2.0">
-  <project timestamp="1644417727188" name="All files">
+<coverage generated="1646749833613" clover="3.2.0">
+  <project timestamp="1646749833613" name="All files">
     <metrics statements="39" coveredstatements="21" conditionals="5" coveredconditionals="0" methods="10" coveredmethods="2" elements="54" coveredelements="23" complexity="0" loc="39" ncloc="39" packages="1" files="2" classes="2"/>
     <file name="test_util.ts" path="/Users/karoon/Documents/project/full-stack-blockchain-defi-solidity/updev-solidity-fullstack-noted/workshop-fullstack-blockchain-defi-solidity-vuejs-golang/workshop/1.04-test-smartcontract-with-jest/utils/test_util.ts">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
